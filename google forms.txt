@@ -1,0 +1,15 @@
+google forms
+
+backgroung-linear gradient( blue,green,pink);
+(read more about linear gradient)
+radial-gradient
+caret color
+to restrict the password as only alphabets.
+<input
+  type="text"
+  inputmode="numeric"
+  pattern="[0-9\s]{13,19}"
+  autocomplete="cc-number"
+  maxlength="19"
+  placeholder="xxxx xxxx xxxx xxxx"
+/>

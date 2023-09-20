@@ -1,0 +1,22 @@
+Always when starting with css for any webpage write the following code.
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+Reason:  These are the rules that sets some initial styling properties(it removes any default properties of margin, padding of each element) for all HTML elements.
+Here's what each part of the code does:
+
+*: This is a CSS universal selector. It selects all HTML elements on the page.
+
+{}: These curly braces {} define a block of CSS rules that apply to the selected elements.
+
+margin: 0;: This rule sets the margin of all elements to 0. The margin is the space outside the element's border.
+
+padding: 0;: This rule sets the padding of all elements to 0. The padding is the space inside the element's border.
+
+box-sizing: border-box;: This rule sets the box-sizing property of all elements to "border-box." This means that the width and height of an element will include the padding and border, but not the margin.
+
+The purpose of this CSS code is to provide a consistent and uniform starting point for styling HTML elements on a web page. By resetting the margin and padding to 0 and setting the box-sizing to border-box, it helps prevent any unexpected default spacing or layout issues that may vary between different web browsers.
+
+This is often referred to as a CSS "reset" or "normalize" rule and is commonly used as a best practice in web development to ensure cross-browser consistency in styling. Developers often build upon this reset by adding their own CSS rules to style specific elements as needed for their website's design.

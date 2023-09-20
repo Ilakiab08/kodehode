@@ -1,0 +1,29 @@
+html harisha chigurupati presentation
+
+1.hsg and canvas learn on your own.
+2. html file can be saved in html or htm extension.
+3.mdn web docs page->installing basic software->github
+4.reference website-> hover over image tag in vs-> mdn reference
+5.w3 schools
+6.codepen login and work with
+7.towrite the tag short form-> use emet ->h$*6
+8. if you want text inside the tag-> h$*6{heading*6}
+
+9. <br><hr><input><img>-<empty tags, they dont have closing tag.
+<br> gives a space between two block level elements
+
+<p>lorem 100->p*2 lorem 100
+
+10. <hr> one line is drawn between the two paragraphs, can also apply css properties on this line.
+
+
+
+
+Joe Glendenning presentation on figma
+
+1.frames can do many things-> frames inside of the frame ->frame->frame
+2. triangles cannot do anything
+3. pluggin->unsplash
+4.Assignment->
+Make a wire frame for an existing website
+robinpowerd website->check witdh and height->make a frame with same width and height->make many frames and name it.-> info bar->header->nav bar->buttons->nav item(5)->

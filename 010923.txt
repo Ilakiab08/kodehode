@@ -1,0 +1,69 @@
+FORMATTING TAGS
+
+
+{<b></b>---->bold tag
+<strong></strong>---->strong tag} inline elements wheras paragrah is a block level
+
+can be <p><b>.....</b></p> not the other way
+
+
+<br>-->break tag(breakes the line to next line)
+<mark>---> to highlight the text where color is yellow. but can be changed to other colors.
+
+<em>Emphasis</em>
+<i>italics</i>
+<ins>insert</ins>
+<del>delete</d>
+<small>small</small>
+<h6>heading</h6>
+<p>a2+b2</p>
+<p>a<sup>2</sup>+b<sup>2</sup>
+<pre>displays the text as it is live we gave,font family is different</pre>
+
+<figure role="symbol image2 aria-labelledby="heart">
+<pre>
+text or image
+</pre>
+<figure caption=.........>
+
+<kbd> tag--->keyboard shortcuts
+<var>
+
+
+text-shadow:x-axis y-axis blur color(0px 0px 2px red)
+box-shadow: 4px 4px 2px
+<samp> to display some error message on the page
+box-sizing ----> msn web docs(box-sizing:border-box)
+nested border radius
+
+ul>li*5{item $}----> only symbols
+ol-----> no symbols only nymber alphabets romn letters etc
+
+emoji hex code--->google--->"/......."
+ul{
+list-style-type:"/1F98A";
+}
+
+@counter-style animal{
+system.cyclic;
+symbol:"/1F98A" "/1F87A""/1F89A"
+
+
+Hi,
+
+
+I am writing to discuss the termination of our tenancy agreement, which is currently scheduled to end on 31.01.2024, as per the agreement we initially signed. I understand the importance of providing sufficient notice, and I want to assure you that I am fully committed to fulfilling my responsibilities as a tenant.
+
+I have been considering my options and, due to personal circumstances, I am willing to move out within one month. I understand that finding a new tenant can sometimes be challenging, and I would like to offer my assistance in this matter. If there is anyone in need of housing or if you have any specific requirements for a new tenant, please consider this email as a formal request to expedite the process. I am open to cooperating and making the transition as smooth as possible.
+
+I am willing to work closely with you and follow any necessary procedures to ensure a hassle-free transition for both parties. If you have any questions or need any additional information from me, please feel free to reach out at your earliest convenience.
+
+Thank you for your understanding, and I look forward to discussing this further and finding a mutually agreeable solution.
+
+Thank you,
+
+Tamizh ilakia R
+
+ 
+
+
